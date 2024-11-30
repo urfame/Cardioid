@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+D:\fame\Documents\study\Academic practice\Project1\Project1\MyForm.h(415,22): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\fame\Documents\study\Academic practice\Project1\Project1\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\fame\Documents\study\Academic practice\Project1\Project1\MyForm.h(452): warning C4715: Project1::MyForm::BuildGraph: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1561: точка входа должна быть определена
