@@ -1,5 +1,6 @@
 # Cardioid
 Winform C++ application for animation of rendering of mathematical graph of cardioid
+LANGUAGE:RUSSIAN(РУССКИЙ)
 # Main form
 ![image](https://github.com/user-attachments/assets/a795ec15-66ba-4e06-816a-a7b24a99e03d)
 # input parameters
